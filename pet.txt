@@ -1,4 +1,8 @@
 dog
 cat
+<<<<<<< HEAD
 mouse
+snake
+=======
 
+>>>>>>> issue_2
